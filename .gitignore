@@ -3,3 +3,4 @@ input
 main
 test
 /main.go
+.DS_Store
